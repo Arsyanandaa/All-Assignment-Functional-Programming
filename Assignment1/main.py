@@ -4,7 +4,7 @@ raw_grades = [
     ["Nisrina", 57, 65],
     ["Nayla", 60, 70],
     ["Fatih", 77, 72],
-    ["Rani", 68, 55],
+    ["Rania", 68, 55],
 ]
 
 
